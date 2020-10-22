@@ -1,5 +1,3 @@
-# vladilen
-
 ## Build Setup
 
 ```bash
